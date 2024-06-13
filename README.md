@@ -2,6 +2,7 @@
 
 ## Introduction
 Hangman is a classic word game in which a player has to guess a random word letter by letter within a certain number of guesses. This project is created using Python and Streamlit for the web interface. 
+URL: https://hangman-game-pythongit.streamlit.app/
 
 ## Features
 - **Difficulty Levels**: A user can choose from three difficulty levels (Easy, Medium and Hard) based on their preference.
@@ -36,7 +37,7 @@ streamlit run main.py
 2. Go to Streamlit Community Cloud and sign up or log in with your GitHub account.
 
 ### Deploy the App:
-1. Click on "create app" and select your GitHub repository.
+1. Click on "Create App" and select your GitHub repository.
 2. Configure the main file path to main.py and click "Deploy".
 
 ## Acknowledgements
