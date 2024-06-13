@@ -17,7 +17,7 @@ Hangman is a classic word game in which a player has to guess a random word lett
 ## Installation
 1. Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/RahemShakeel/Hangman-Game-Python.git
 ```
 3. Install the required package
 ```bash
