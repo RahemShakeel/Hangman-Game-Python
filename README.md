@@ -2,6 +2,7 @@
 
 ## Introduction
 Hangman is a classic word game in which a player has to guess a random word letter by letter within a certain number of guesses. This project is created using Python and Streamlit for the web interface. 
+<br>
 URL: https://hangman-game-pythongit.streamlit.app/
 
 ## Features
