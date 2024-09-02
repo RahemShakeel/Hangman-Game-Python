@@ -21,7 +21,7 @@ URL: https://hangman-game-pythongit.streamlit.app/
 ```bash
 git clone https://github.com/RahemShakeel/Hangman-Game-Python.git
 ```
-3. Install the required package
+2. Install the required package
 ```bash
 pip install streamlit
 ```
